@@ -1,1 +1,1 @@
-function_pointers in C
+Varidic functions in C
